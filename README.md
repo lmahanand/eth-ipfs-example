@@ -10,6 +10,6 @@ Steps are given considering smart contract is deployed in In Memory Ethereum net
 
 ### npm run start ###
 
-Once the page is loaded, upload any file to IPFS.
+Once the page is loaded, choose any file and click on Send IT button that will send the file to IPFS.
 
-IPFS has will be created against the uploaded file which can later be used to retrieve the original file.
+Once the file is uploaded successully, IPFS hash will be created against the uploaded file which can later be used to retrieve the original file.
