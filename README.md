@@ -8,6 +8,8 @@ Steps are given considering smart contract is deployed in In Memory Ethereum net
 
 ### truffle migrate --compile-all --reset --network ganache ###
 
+### npm install ###
+
 ### npm run start ###
 
 Once the page is loaded, choose any file and click on Send IT button that will send the file to IPFS.
